@@ -1,0 +1,2 @@
+# sampleRepo
+creating GitHub repository
