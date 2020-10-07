@@ -1,2 +1,2 @@
 # sampleRepo
-creating GitHub repository
+creating GitHub repository from web
